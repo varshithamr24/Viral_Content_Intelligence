@@ -121,7 +121,8 @@ Enter a caption or idea.
 Export a content-planning brief as a CSV file.
 ---
 📊 Data and Outputs
-The dashboard uses local CSV files created or collected during the project workflow. Examples include:
+The dashboard uses local CSV files created or collected during the project workflow.
+Examples include:
 `posts.csv` — post metadata such as platform, topic, format, caption, and date.
 `engagement.csv` — engagement metrics associated with each post.
 `comments.csv` and `audience_sentiment_analysis.csv` — audience comments and sentiment-analysis outputs.
