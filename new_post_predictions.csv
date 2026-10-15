@@ -1,0 +1,5 @@
+platform,topic,content_type,Predicted_Engagement,High_Engagement_Probability
+Instagram,Study Pressure,Reel,High Engagement,0.82
+YouTube,Technology,Short,Low Engagement,0.47
+Instagram,Career Advice,Carousel,High Engagement,0.51
+TikTok,Motivation,Video,High Engagement,0.525

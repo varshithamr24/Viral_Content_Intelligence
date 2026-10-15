@@ -1,0 +1,21 @@
+comment_id,post_id,comment_text,sentiment,relatability,sentiment_score,predicted_sentiment
+1,1,I thought I was the only person who felt this way.,Positive,Relatable,0.0,Neutral
+2,1,This describes exactly what happens to me.,Positive,Relatable,0.25,Positive
+3,1,Very informative video.,Positive,Neutral,0.2,Positive
+4,2,This is literally my college experience.,Positive,Relatable,0.0,Neutral
+5,2,Every student needs to see this.,Positive,Relatable,0.0,Neutral
+6,2,Nice content.,Positive,Neutral,0.6,Positive
+7,3,I am so confused about my career right now.,Neutral,Relatable,-0.05714285714285716,Negative
+8,3,This is something nobody talks about.,Positive,Relatable,0.0,Neutral
+9,3,Very useful information.,Positive,Neutral,0.39,Positive
+10,4,My friends and I went through the same thing.,Positive,Relatable,0.0,Neutral
+11,4,This brought back so many memories.,Positive,Relatable,0.25,Positive
+12,5,I definitely needed to hear this.,Positive,Relatable,0.0,Neutral
+13,6,Relationships can really be complicated.,Positive,Relatable,-0.5,Negative
+14,7,The pressure from exams is unbelievable.,Neutral,Relatable,-0.25,Negative
+15,7,This is exactly what students experience.,Positive,Relatable,0.25,Positive
+16,8,I have struggled with confidence for years.,Neutral,Relatable,0.0,Neutral
+17,9,Work-life balance is something I am still learning.,Positive,Relatable,0.0,Neutral
+18,10,This explains my experience perfectly.,Positive,Relatable,1.0,Positive
+19,10,I feel understood after watching this.,Positive,Relatable,0.0,Neutral
+20,10,Great short video.,Positive,Neutral,0.4,Positive
